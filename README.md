@@ -3,7 +3,7 @@ ______
 
 #Description
 
-This is an example site for intro to front-end web dev course at The Flation School.
+This is an example site for the intro to front-end web dev course at The Flatiron School.
 
 #Contact
 
